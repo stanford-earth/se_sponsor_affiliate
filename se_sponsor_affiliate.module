@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Sponsor-Affiliate feature.
+ */
+
+include_once 'se_sponsor_affiliate.features.inc';
